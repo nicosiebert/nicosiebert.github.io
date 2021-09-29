@@ -47,3 +47,13 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+
+
+
+.section{
+    width: 100vw;
+    min-height:100vh;
+    background-image: url(../../img/home.svg);
+    background-color: blueviolet;
+}
