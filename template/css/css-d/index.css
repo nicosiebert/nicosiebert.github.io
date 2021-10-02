@@ -1,0 +1,49 @@
+.body{
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    background: #34fa64;
+    margin:0;
+    padding:0;
+    display: flex;
+    align-items: center;
+}
+/* un snip que te permita leer las classes de html */
+.header-logo{
+    margin-left: 20px;
+    margin-right: auto ;
+    font-size: 40px;
+}
+.header-search{
+    width: 230px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: 20px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.header-search-input{
+    width: 0px;
+    height: 30px;
+    top: 40px;
+    right: 40px;
+    transition:all .37s ;
+}
+.header-search-button{
+    border: none;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    background-image: url(../../img/vidrio-de-aumento.png);
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
