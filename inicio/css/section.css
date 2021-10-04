@@ -1,0 +1,43 @@
+.section{
+
+    justify-content: center;
+}.section-nico{
+    width: 80%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.section-about{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.section-title{
+
+}
+.section-p{
+
+}
+.section-btn{
+    background:transparent;
+    border: 1px solid var(--border);
+}
+.section-img-ctn{
+    width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.section-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    border: 1px solid var(--border);
+    display: block;
+}

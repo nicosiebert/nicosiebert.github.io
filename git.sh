@@ -1,4 +1,5 @@
 git status
+git add *
 git rm *
 git merge
 git commit -m "update"

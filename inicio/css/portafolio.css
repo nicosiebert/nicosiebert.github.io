@@ -1,0 +1,16 @@
+.template-container{
+    width: 400px;
+    height: 250px;
+    margin: 20px;
+}
+.template-title{
+    width: 400px;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+}
+
+.template-img{
+    width: 400px;
+    height: 200px;
+}
